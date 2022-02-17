@@ -1,5 +1,10 @@
-### Hi there 👋
+# Здравствуй!
+### Меня зовут Дмитрий, и я самостоятельно изучаю фронтенд-разработку
 
+**Мой технологический стэк**
+* HTML/CSS
+* JavaScript
+* React
 <!--
 **DmitriyVavilin/DmitriyVavilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
