@@ -4,7 +4,13 @@
 **Мой технологический стэк**
 * HTML/CSS
 * JavaScript
+* TypeScript
 * React
+* Redux
+* Redux-Toolkit
+* Story book
+* REST API
+* Formik
 <!--
 **DmitriyVavilin/DmitriyVavilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
