@@ -1,7 +1,7 @@
-# Здравствуй!
-### Меня зовут Дмитрий, и я самостоятельно изучаю фронтенд-разработку
+# Hello!
+### I`m Frontend developer 
 
-**Мой технологический стэк**
+**My technology stack**
 * HTML/CSS
 * JavaScript
 * TypeScript
